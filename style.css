@@ -5,8 +5,7 @@ body {
     font-size: 1vw;
     line-height: 1.6;
     font-weight: 500;
-  }
-  
+}
   h1 {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -510,42 +509,41 @@ body {
 
 /* Navbar Styles */
 .navbar {
-  background-color: #2E2A27; /* Maintain existing color */
-  padding: 15px 0;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #2E2A27;
+    padding: 15px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .navbar .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
 }
 
 .navbar-logo img {
-  width: 120px; /* Adjust logo size */
+    width: 120px;
 }
 
 .navbar-links {
-  list-style: none;
-  display: flex;
+    list-style: none;
+    display: flex;
 }
 
 .navbar-links li {
-  margin-left: 30px;
+    margin-left: 30px;
 }
 
 .navbar-links a {
-  color: white;
-  text-decoration: none;
-  font-size: 1.1rem;
-  font-weight: 500;
-  transition: color 0.3s ease;
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+    transition: color 0.3s ease;
 }
 
 .navbar-links a:hover {
-  color: #f4f4f4;
-}
+    color: #f4f4f4;
 
 /* Professional Services Section */
 .services-section {
